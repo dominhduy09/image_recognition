@@ -2,6 +2,7 @@
 image_recognition
 
 From Teachable Machine Image Model with duyhandsome
-> Visit these:
+> Visit these with responsiveVoice api:
 - https://imagerecognition.dominhduy.repl.co
-- https://teachablemachine.withgoogle.com/models/Gf6GelTt7
+
+# https://teachablemachine.withgoogle.com/models/Gf6GelTt7
